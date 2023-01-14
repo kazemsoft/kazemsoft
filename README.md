@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kazemsoft
-- 👀 I’m interested in learning all new programming languages.
-- 🌱 I’m currently learning Julia
-- 📫 How to reach me ?! @kazemsoft -> Telegram, @code.baman -> Instagram
+- 👋 Hi, My name is Mohammad Qoliyan
+- 👨‍💻 I'm a javascript fullstack developer working at SternX
+- 📫 kgholian@gmail.com 
 
 <!---
 kazemsoft/kazemsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
