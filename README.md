@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Mohammad Qoliyan
-- 👨‍💻 I'm a javascript fullstack developer working at SternX
+- 👨‍💻 I'm a javascript fullstack developer working as a Freelancer
 - 📫 kgholian@gmail.com 
 
 <!---
